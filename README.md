@@ -14,7 +14,7 @@ UX Now is a framework that reintroduces tactile, analog processes into digital U
 
 ## Download the White Paper
 
-[📄 Download PDF](./UX-Now-White-Paper.pdf)
+[📄 Download PDF](./UX-Now-Framework.pdf)
 
 
 
